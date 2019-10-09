@@ -33,4 +33,4 @@ const convert = function(s, numRows) {
 
 console.log(convert('AB', 1));
 
-https://leetcode.com/problems/zigzag-conversion/submissions/
+// https://leetcode.com/problems/zigzag-conversion/submissions/
